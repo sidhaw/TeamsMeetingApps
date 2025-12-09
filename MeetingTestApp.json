@@ -82,12 +82,9 @@
             ],
             "powerAppsDiscovery": {
                 "gptTemplateAppIds": [
-                    "09e19d1e-ea5e-4adf-af47-fb8dd013361f",
-                    "9e2962b8-7eae-4124-86f3-1799090725e1"
+                    "1ef3c012-7ba0-4e29-b6e7-e724183ab93f"
                 ],
                 "customCopilotTemplateAppIds": [
-                    "f6405520-7907-4464-8f6e-9889e2fb7d8f",
-                    "958bb540-13ba-46ab-8d6a-8ab39e3e1fd8"
                 ],
                 "powerPlatformTemplateAppIds": [
                     "ba1cabe6-dfd2-4334-96c0-0dcdf86e18e5",
